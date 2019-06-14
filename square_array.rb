@@ -1,4 +1,3 @@
 def square_array(array)
-  x = array.each 
-  Math.sqrt(x)
+  Math.sqrt(array).each
 end
